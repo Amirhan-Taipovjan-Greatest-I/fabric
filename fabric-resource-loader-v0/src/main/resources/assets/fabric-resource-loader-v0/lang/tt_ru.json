@@ -1,4 +1,5 @@
 {
+  "modmenu.descriptionTranslation.fabric-resource-loader-v0": "Ресурс һәм мәгълүмат ресурсы йөкләү.",
   "pack.description.modResources": "Мод ресурслары.",
   "pack.source.fabricmod": "Fabric моды",
   "pack.source.builtinMod": "кертелгән: %s",
