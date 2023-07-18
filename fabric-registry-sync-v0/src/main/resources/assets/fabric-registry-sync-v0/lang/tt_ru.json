@@ -1,0 +1,8 @@
+{
+  "modmenu.descriptionTranslation.fabric-registry-sync-v0": "Syncs registry mappings.",
+  "fabric-registry-sync-v0.unknown-remote.title.singular" : "Клиентга билгесез реестрдагы язма алынды.\n",
+  "fabric-registry-sync-v0.unknown-remote.title.plural" : "Клиентга билгесез реестрдагы %d язма алынды.\n",
+  "fabric-registry-sync-v0.unknown-remote.subtitle.1" : "This is usually caused by a mismatched mod set between the client and server.",
+  "fabric-registry-sync-v0.unknown-remote.subtitle.2" : " See the client logs for more details.\nThe following registry entry namespaces may be related:\n\n",
+  "fabric-registry-sync-v0.unknown-remote.footer" : "һәм %d тагын..."
+}
